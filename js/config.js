@@ -61,7 +61,7 @@ window.GRAD_CONFIG = {
    * KHÔNG hiển thị thành công giả.
    */
   rsvp: {
-    endpoint:https://script.google.com/u/0/home/projects/1kt8Grwm6Mi4PE-j1jYACCb-mQenBO8uEymkXsHHNXGzbG2ZisxuCR8LJ/edit '',
+    endpoint: 'https://script.google.com/macros/s/AKfycbxaSl_bgWId6k3Q07NQvUFtRv4sLpHCkW0I0fell_9hbHuRnimOk2NIJt3HkOT_amqx/exec',
     maxGuests: 10,
     timeoutMs: 15000
   },
