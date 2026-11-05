@@ -11,7 +11,7 @@ window.GRAD_CONFIG = {
     shortName: 'Khiêm',
     // Đường dẫn ảnh chân dung, ví dụ: 'assets/images/portrait.jpg'
     // Để trống ('') → hiển thị khung placeholder.
-    portrait: '',
+    portrait: 'assets/images/chandung.png',
     portraitAlt: 'Ảnh chân dung Dương Vĩnh Khiêm'
   },
 
