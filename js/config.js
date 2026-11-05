@@ -48,8 +48,8 @@ window.GRAD_CONFIG = {
    * Ví dụ: src: 'assets/images/gallery/01.jpg'
    */
   gallery: [
-    { src: 'assets/images/screenshot_1793848313.png', label: 'Ảnh chân dung',        alt: 'Ảnh chân dung của Khiêm',          caption: 'Chân dung' },
-    { src: 'assets/images/Graduation%20Portrait%20at%20MINISTOP.png', label: 'Ảnh tốt nghiệp',       alt: 'Ảnh tốt nghiệp của Khiêm',         caption: 'Ngày tốt nghiệp' },
+    { src: 'assets/images/Graduation%20Portrait%20at%20MINISTOP.png', label: 'Ảnh chân dung',        alt: 'Ảnh chân dung của Khiêm',          caption: 'Chân dung' },
+    { src: 'assets/images/screenshot_1793848313.png', label: 'Ảnh tốt nghiệp',       alt: 'Ảnh tốt nghiệp của Khiêm',         caption: 'Ngày tốt nghiệp' },
     { src: 'assets/images/screenshot_1793851672.png', label: 'Ảnh cùng bạn bè',      alt: 'Khiêm chụp ảnh cùng bạn bè',       caption: 'Cùng bạn bè' },
     { src: 'assets/images/482995273_1230769978476329_8775661170883500922_n.jpg', label: 'Ảnh học tập',          alt: 'Khiêm trong quá trình học tập',    caption: 'Những ngày học tập' },
     { src: 'assets/images/ce068278-5a25-49ed-8b7b-52334b7729f4.jpg', label: 'Ảnh kỷ niệm tại trường', alt: 'Kỷ niệm của Khiêm tại trường',   caption: 'Kỷ niệm tại trường' }
